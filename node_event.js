@@ -49,7 +49,7 @@ let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         user: 'pierce.collazo@codeimmersives.com',
-        pass: 'Grenade1'
+        pass: 'aFakePass'
     }
 })
 
